@@ -49,10 +49,10 @@ Improved analytics efficiency by reducing manual tracking effort
  ┣ 📄 project1.pbix
  ┣ 📄 Tweet.xlsx
  ┣ 📄 README.md
- ┗ 📄 analyticsdashboard.png
+ ┗ 📄 analyticdashboard.png
 
 # 📸 Dashboard Preview
-![Dashboard Preview](analyticsdashboard.png)
+![Dashboard Preview](analyticdashboard.png)
 
 # 📌 How to Use
 Download the .pbix file from this repository
